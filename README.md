@@ -9,7 +9,9 @@ Parasite Developers will be using this along with our private Trello to try and 
 ## Contents
 <hr>
 
-* [General Information](#General_Information)
+* [General Information](https://github.com/ParasiteMH/Parasite/blob/master/README.md#general-information)
+* [Community Expectations](https://github.com/ParasiteMH/Parasite/blob/master/README.md#community-expectations)
+* [Submitting An Issue](https://github.com/ParasiteMH/Parasite/blob/master/README.md#submitting-an-issue)
 
 ## General Information
 <hr>
