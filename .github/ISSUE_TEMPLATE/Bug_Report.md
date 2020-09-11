@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Report a bug on Minehut
+about: Report a bug on Parasite
 title: ''
 labels: Bug
 assignees: ''

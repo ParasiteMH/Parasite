@@ -3,8 +3,8 @@ Welcome to the Parasite Meta GitHub Repository! This is where you can **report b
 
 Parasite Developers will be using this along with our private Trello to try and fix bugs as quickly as posible, along with getting the communities input on new features. Any questions about *this* GitHub Repository should go to @Riley#9202 and/or @RichieNy#0002
 
-`parasite.minehut.gg` <br>
-`ParasiteMC.com`
+`parasite.minehut.gg` *(WIP - WHITELISTED)*<br>
+`ParasiteMC.com` *(WIP - OFFLINE)*
 
 ## Contents
 <hr>
@@ -57,7 +57,7 @@ We expect members of the community participating in conversations here to act in
 ## Submitting An Issue
 <hr>
 
-* Once you're ready to submit your bug report or feature request, head over to this [page]() to begin the process
-* You can also comment on other issues and participate in other conversations. Remember, if you want to show support or general disagreement of an issue, use 👍 and 👎 reactions. You can also [sort issues by 👍 reactions]() ([also by 👎 if you'd like]())
+* Once you're ready to submit your bug report or feature request, head over to this [page](https://github.com/ParasiteMH/Parasite/issues/new/choose) to begin the process
+* You can also comment on other issues and participate in other conversations. Remember, if you want to show support or general disagreement of an issue, use 👍 and 👎 reactions. You can also [sort issues by 👍 reactions](https://github.com/ParasiteMH/Parasite/issues?q=is%3Aissue+sort%3Areactions-%2B1-desc) ([also by 👎 if you'd like](https://github.com/ParasiteMH/Parasite/issues?q=is%3Aissue+sort%3Areactions--1-desc))
 
 *This system was stolen/created by Jellz using Minehut Meta https://github.com/Minehut/Meta*
