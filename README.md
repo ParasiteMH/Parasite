@@ -4,7 +4,7 @@ Welcome to the Parasite Meta GitHub Repository! This is where you can **report b
 Parasite Developers will be using this along with our private Trello to try and fix bugs as quickly as posible, along with getting the communities input on new features. Any questions about *this* GitHub Repository should go to @Riley#9202 and/or @RichieNy#0002
 
 `parasite.minehut.gg` *(WIP - WHITELISTED)*<br>
-`ParasiteMC.com` *(WIP - OFFLINE)*
+`ParasiteMC.com` *(WIP)*
 
 ## Contents
 <hr>
